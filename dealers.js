@@ -1,4 +1,4 @@
-var ids = [{
+var online_ids = [{
   "name":"jamaica",
   "_id":"jm/en"
 },{
